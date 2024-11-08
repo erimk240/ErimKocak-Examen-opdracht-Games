@@ -1,0 +1,17 @@
+Ontwerponderdelen voor je Platformgame
+Game Concept en Mechanics
+Hoofdmechaniek: Speler kan springen, lopen, obstakels ontwijken, vijanden verslaan, en power-ups verzamelen.
+Doel: De speler moet het einde van het level bereiken door obstakels te overwinnen en vijanden te verslaan.
+Power-ups: Extra snelheid, extra levens, en speciale vaardigheden zoals dubbel springen.
+Visueel Ontwerp
+Achtergrond: Een scrolbare achtergrond met thema's (bijv. bossen, bergen, of ondergronds).
+Speler: Een eenvoudig sprite-karakter met animaties voor lopen, springen, en vallen.
+Platformen: Variaties in platformhoogte, bewegende platforms, en breekbare platformen.
+Levelstructuur
+Startpunt en eindpunt duidelijk gemarkeerd.
+Progressieve moeilijkheidsgraad met toenemende obstakels.
+User Interface (UI)
+Levensindicator: Toont hoeveel levens de speler nog heeft.
+Audio
+Achtergrondmuziek: Rustige, herhalende muziek om de speler te begeleiden.
+Geluidseffecten: Voor springen, botsen, en het verzamelen van objecten.
